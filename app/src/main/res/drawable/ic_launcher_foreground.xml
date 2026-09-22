@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Subtle frosted glass backplate diamond -->
+    <path
+        android:fillColor="#15FFFFFF"
+        android:strokeColor="#30FFFFFF"
+        android:strokeWidth="1"
+        android:pathData="M54,26 L82,54 L54,82 L26,54 Z" />
+
+    <!-- Upper Cyber Blade Ribbon in Crisp White -->
+    <path
+        android:pathData="M34,38 L70,38 L78,48 L50,56 L42,50"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="square"
+        android:strokeLineJoin="miter" />
+
+    <!-- Lower Cyber Blade Ribbon in Crisp White -->
+    <path
+        android:pathData="M74,70 L38,70 L30,60 L58,52 L66,58"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="square"
+        android:strokeLineJoin="miter" />
+
+    <!-- Center Angular Slash forming the iconic X -->
+    <path
+        android:pathData="M36,68 L72,40"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+
+    <!-- Micro vertices nodes -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M34,38m-3,0a3,3 0 1,0 6,0a3,3 0 1,0 -6,0" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M74,70m-3,0a3,3 0 1,0 6,0a3,3 0 1,0 -6,0" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "Strugx",
+  "description": "A modern social media platform for followers, posts, strugs, direct messaging, and community connection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
